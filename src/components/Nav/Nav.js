@@ -10,9 +10,9 @@ const Nav = props => (
 
       <li id="rw">{props.correctIncorrect}</li>
 
-      <li>Current Score: {props.score}</li>
+      <li class="score-num">Current Score: {props.score}</li>
 
-      <li>Top Score: {props.topScore}</li>
+      <li class="score-num">Top Score: {props.topScore}</li>
     </ul>
   </nav>
 );
