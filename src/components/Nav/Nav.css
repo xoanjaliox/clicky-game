@@ -25,15 +25,20 @@ nav li {
   font-size: 28px;
 }
 
+.top{
+  margin-left: 55px;
+}
+
 ul {
-  margin-left: 475px;
   
 }
 
 .score-num {
   color: #ffc220;
+  font-size: 20px;
 }
 
 #rw {
   color: #ffc220;
+  font-size: 20px;
 }
